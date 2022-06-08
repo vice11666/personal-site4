@@ -1,0 +1,66 @@
+body{
+    margin-top: 0;
+    text-align: center;
+}
+h1{
+   font-size: 5.625rem;
+    margin-top: 0;
+    font-family: 'Kaushan Script', cursive;
+    color:#66BFBF ;
+    line-height: 2;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: 'Encode Sans', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Crimson Text', serif;
+    color: #11999E;
+}
+.top-container{
+    background-color: #ECE5C7;
+    padding-top: 100px;
+    position: relative;
+}
+.top-cloud{
+    position: absolute;
+    right: 500px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+}
+.profile-img{
+    border-radius: 100px;
+}
+.footer-link{
+    color: #11999E;
+}
+.btn{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 200px auto 200px auto;
+    line-height: 2;
+    text-align: left;
+}
+.he{
+ width: 25%;
+ float: left;
+ margin: 20px;
+ 
+}
+.pos{
+    padding-top: 50px;
+}
+.Human {
+   float: right;
+}.derc{
+    margin-left: 58%;
+    
+}
